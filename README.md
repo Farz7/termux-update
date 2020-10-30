@@ -1,2 +1,2 @@
-chmod +x * Farz.sh
-./Farz.
+Chmod +x Farz.sh
+./Farz.sh
