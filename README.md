@@ -1,2 +1,2 @@
-# termux-update
-chmod +x *
+chmod +x * Farz.sh
+
