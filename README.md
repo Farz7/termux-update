@@ -1,0 +1,2 @@
+# termux-update
+chmod +x *
