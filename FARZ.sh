@@ -1,7 +1,7 @@
 #!/bin/bash
 echo $red 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by Shaikh Ahad now start"
+echo " This Script is written by Farz_7 now start"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -11,7 +11,7 @@ echo "."
 
 echo  "#####################################"
 echo   " we are anynomous"               
- echo   " I Am Shaikh Ahad ok "                                                                    
+ echo   " I Am Farz_7 ok "                                                                    
 echo   "####################################"
 
 echo "007"
