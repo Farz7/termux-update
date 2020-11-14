@@ -71,6 +71,7 @@ echo   " we are hackers "
 apt install wcalc -y 
 apt install openssl
 apt install bmon -y
+pkg install moon-buggy
 
 echo  "#####################################"
                
